@@ -28,41 +28,21 @@ Whether you're working with RNA-seq, flow cytometry data, proteomics, or any oth
 
 ### For New Lab Members
 
+0. **Make your own repository** (e.g., for your own project or manuscript)
+
 1. **Clone this repository** to access all documentation:
    ```bash
    git clone https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/lab-wiki.git
    ```
-
+   
 2. **Browse existing documentation** to familiarize yourself with common workflows
 
 3. **Set up your computational environment** following the guidelines in the [Tools and Resources](#tools-and-resources) section
 
-### For Contributing Members
 
-1. **Fork** this repository or create a new branch
-2. **Add or update** documentation relevant to your work
-3. **Submit a pull request** for review
-4. See [Contributing](#contributing) section for detailed guidelines
+## 📁 Documentation 
 
-## 📁 Documentation Structure
-
-We recommend organizing documentation using the following structure:
-
-```
-docs/
-├── pipelines/           # Bioinformatics pipelines and workflows
-│   ├── rna-seq/
-│   ├── proteomics/
-│   └── flow-cytometry/
-├── protocols/           # Computational protocols and SOPs
-├── scripts/             # Reusable analysis scripts
-│   ├── r/
-│   ├── python/
-│   └── bash/
-├── tutorials/           # Step-by-step tutorials
-├── data-management/     # Data organization and storage guidelines
-└── troubleshooting/     # Common issues and solutions
-```
+Find the documentation structure in https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/lab-wiki/wiki
 
 ### What to Document
 
