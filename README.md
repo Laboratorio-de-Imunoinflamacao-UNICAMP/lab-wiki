@@ -8,7 +8,7 @@ Welcome to the **Laboratório de Imunoinflamação - UNICAMP** computational res
 
 - [About](#-about)
 - [Getting Started](#-getting-started)
-- [Documentation Structure](#-documentation-structure)
+- [Documentation Structure](#-documentation)
 - [Best Practices](#-best-practices)
 - [Tools and Resources](#-tools-and-resources)
 - [Contributing](#-contributing)
