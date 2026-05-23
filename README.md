@@ -2,6 +2,8 @@
 
 Welcome to the **Laboratório de Imunoinflamação - UNICAMP** computational research wiki! This repository serves as a comprehensive guide and knowledge base for documenting computational work, biological data analysis, and bioinformatics workflows used in our laboratory.
 
+ * [Quick link to our documents](https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/lab-wiki/wiki)
+
 ## 📚 Table of Contents
 
 - [About](#about)
@@ -42,7 +44,7 @@ Whether you're working with RNA-seq, flow cytometry data, proteomics, or any oth
 
 ## 📁 Documentation 
 
-Find the documentation structure in https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/lab-wiki/wiki
+Find the documentation structure [here - lab-wiki/wiki](https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/lab-wiki/wiki)
 
 ### What to Document
 
