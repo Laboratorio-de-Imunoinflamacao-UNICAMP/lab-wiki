@@ -6,13 +6,13 @@ Welcome to the **Laboratório de Imunoinflamação - UNICAMP** computational res
 
 ## 📚 Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting-started)
-- [Documentation Structure](#documentation-structure)
-- [Best Practices](#best-practices)
-- [Tools and Resources](#tools-and-resources)
-- [Contributing](#contributing)
-- [Support](#support)
+- [About](#-about)
+- [Getting Started](#-getting-started)
+- [Documentation Structure](#-documentation-structure)
+- [Best Practices](#-best-practices)
+- [Tools and Resources](#-tools-and-resources)
+- [Contributing](#-contributing)
+- [Support](#-support)
 
 ## 🔬 About
 
