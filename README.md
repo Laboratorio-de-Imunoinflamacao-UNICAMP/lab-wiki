@@ -4,6 +4,16 @@ Welcome to the **Laboratório de Imunoinflamação - UNICAMP** computational res
 
  * [Quick link to our documents](https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/lab-wiki/wiki)
 
+
+## **Want to share your scripts and analyses on GitHub as part of a scientific publication?
+No prior GitHub experience needed! Follow these simple, step-by-step guides (in PT):**
+
+* [01. Organização de projetos científicos no GitHub](https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/lab-wiki/wiki/01-Organizacao-de-projetos-cientificos-no-GitHub)
+* [02. Como preparar um README para projetos científicos](https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/lab-wiki/wiki/02-Como-preparar-um-README-para-projetos-cientificos)
+* [03. Como enviar arquivos pela interface do GitHub](https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/lab-wiki/wiki/03-Como-enviar-arquivos-pela-interface-do-GitHub)
+* [04. Como enviar arquivos para o GitHub pelo terminal](https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/lab-wiki/wiki/04-Como-enviar-arquivos-para-o-GitHub-pelo-terminal)
+
+
 ## 📚 Table of Contents
 
 - [About](#-about)
